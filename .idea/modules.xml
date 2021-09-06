@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_Daily_Practice.iml" filepath="$PROJECT_DIR$/Java_Daily_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MInesweeper/MInesweeper.iml" filepath="$PROJECT_DIR$/MInesweeper/MInesweeper.iml" />
+    </modules>
+  </component>
+</project>
